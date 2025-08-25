@@ -1,6 +1,6 @@
 My CS50 Learning Journey – Few Selected Weeks and Practice Code
 
-This repository contains my personal CS50 learning journey, focusing on selected weeks (Week 1 to Week 5) and practice code.  
+This repository contains my personal CS50 learning journey, focusing on selected weeks (Week 1 to Week 3) and practice code.  
 The goal of this repository is to share concept implementations, explanations, and my approach to learning CS50 fundamentals.
 
 📂 Repository Structure:
@@ -19,18 +19,6 @@ Week 3 – Algorithms
 - Time complexity and Big-O notation
 - Searching: Linear Search, Binary Search
 - Sorting: Selection Sort, Bubble Sort, Insertion Sort
-
-Week 4 – Memory
-- Memory concepts: Stack, Heap
-- Pointers, addresses, and arrays
-- Dynamic memory allocation (`malloc`, `free`)
-- Practice: String copying, pointer arithmetic
-
-Week 5 – Data Structures
-- Introduction to abstract data types
-- Linked Lists: insert, delete, traversal
-- Stacks and Queues: Implementation using arrays and linked lists
-
 
  ⚠ Disclaimer
 This repository **does not contain official CS50 solutions**.  
